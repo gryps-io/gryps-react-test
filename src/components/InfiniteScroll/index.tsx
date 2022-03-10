@@ -3,6 +3,8 @@ import { FC, useEffect, useState } from 'react';
 import ComicElement from '@/components/ComicElement';
 import { Comic } from '@/types';
 
+import './styles.scss';
+
 const InfiniteScroll: FC = () => {
   const [comics, setComics] = useState<Comic[]>([]);
 

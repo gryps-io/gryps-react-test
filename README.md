@@ -52,5 +52,5 @@ npm run lint
 
 ### Task 4: App Usability
 
-- Clean up design in [ComicElement.tsx](src/components/ComicElement/index.tsx). Improve the look and feel of the Elements.
+- Improve the look and feel of the Elements.
 - Make views accessible both views accessible from landing page (In any navigation method desired).
