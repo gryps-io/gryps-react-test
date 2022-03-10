@@ -1,0 +1,22 @@
+.comic {
+  display: flex;
+  border-radius: 1em;
+  margin: 1em auto;
+
+  &__avatar {
+    padding: 1em;
+  }
+
+  &__avatar img {
+    display: block;
+    width: 100%;
+    min-width: 64px;
+    height: auto;
+  }
+
+  &__details {
+    padding: 1em;
+    font-size: 0.5rem;
+    max-height: 64px;
+  }
+}
