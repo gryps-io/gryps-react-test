@@ -53,4 +53,4 @@ npm run lint
 ### Task 4: App Usability
 
 - Improve the look and feel of the Elements.
-- Make views accessible both views accessible from landing page (In any navigation method desired).
+- Make both views accessible from landing page (In any navigation method desired).
